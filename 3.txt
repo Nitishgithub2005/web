@@ -32,7 +32,7 @@
       </section>
       <p>
         The current date and time:
-        <time datetime="2023-08-31">August 31, 2023</time>
+               <time datetime="2024-12-24T9:30">December 24, 2024, 9:30 AM</time>
       </p>
       <p>
         Notice how the first letter of each paragraph is styled differently.
